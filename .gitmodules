@@ -1,0 +1,7 @@
+[submodule "WP2/FederatedScope"]
+	path = WP2/FederatedScope
+	url = https://github.com/jordiluque/FederatedScope.git
+	branch = llm-eloquence
+[submodule "WP2/alignment"]
+	path = WP2/alignment
+	url = https://github.com/pirxus/ELOQUENCE-WP2.git
