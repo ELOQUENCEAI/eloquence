@@ -8,3 +8,6 @@
 [submodule "WP5/eloquence-interactive-playground"]
 	path = WP5/eloquence-interactive-playground
 	url = git@github.com:langtech-bsc/eloquence-interactive-playground.git
+[submodule "WP3/dialog2flow"]
+	path = WP3/dialog2flow
+	url = https://github.com/idiap/dialog2flow.git
