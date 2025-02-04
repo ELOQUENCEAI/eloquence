@@ -5,3 +5,6 @@
 [submodule "WP2/alignment"]
 	path = WP2/alignment
 	url = https://github.com/pirxus/ELOQUENCE-WP2.git
+[submodule "WP5/eloquence-interactive-playground"]
+	path = WP5/eloquence-interactive-playground
+	url = git@github.com:langtech-bsc/eloquence-interactive-playground.git
