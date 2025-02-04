@@ -2,8 +2,8 @@
 	path = WP2/FederatedScope
 	url = https://github.com/jordiluque/FederatedScope.git
 	branch = llm-eloquence
-[submodule "WP2/alignment"]
-	path = WP2/alignment
+[submodule "WP2/llm_adaptation"]
+	path = WP2/llm_adaptation
 	url = https://github.com/pirxus/ELOQUENCE-WP2.git
 [submodule "WP5/eloquence-interactive-playground"]
 	path = WP5/eloquence-interactive-playground
