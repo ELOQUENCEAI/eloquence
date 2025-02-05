@@ -5,6 +5,7 @@ The ELOQUENCE project is an initiative focused on advancing AI-driven voice and 
 
 ![Eloquence](materials/images/eloquence.jpg)
 
+
 ## What's in the repository?  
 
 This repository contains the source code, artifacts and other resources related to the project. You will find brief descriptions of each work package, implementation guidelines and various tools. We continuously update it with new materials as the project evolves.  
@@ -14,7 +15,7 @@ This repository contains the source code, artifacts and other resources related 
 Below is a table outlining the project’s work packages. The resources developed in each work package are stored in their respective directories. Within these directories, you will find submodules, which are independent repositories integrated into the main repository.
 
 | Work Package |  Name | Description |
-| ------ | ------ | ------ |
+| :------: | :------: | ------ |
 | WP1 | Assessment Framework | Developing an assessment framework for unstructured dialogues within professional, multi-modal, multi-lingual, bias-free, law-compliant environments with enhanced capabilities of understanding. |
 | WP2 | Research & Development | Focusing on the research and development of natural language understanding capabilities through Large Language Models (LLMs). |
 | WP3 | Explainability and Automated Reasoning | Enhancing explainability, automated reasoning, and context-based interaction in unstructured dialogues. |
