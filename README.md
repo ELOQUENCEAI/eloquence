@@ -1,4 +1,4 @@
-<img src="materials/images/logo.jpg" alt="Logo" width="200" />
+<img src="materials/images/logo.jpg" alt="Logo" width="800" />
 
 ## Introduction
 The ELOQUENCE project is an initiative focused on advancing AI-driven voice and chat bot technologies. Its goal is to transform unstructured dialogues into clear, safe, and unbiased interactions. ELOQUENCE emphasizes self-learning and adaptable AI models that cater to multiple languages and use cases, with a strong commitment to sustainability and European values. A key aspect of the project is its application in safety-critical environments, such as emergency services and smart home assistants. By partnering with major European enterprises, ELOQUENCE integrates cutting-edge research into real-world deployments, setting new benchmarks for AI in terms of privacy, bias detection, and empathetic user engagement. This initiative ensures that conversational AI remains both effective and ethically responsible.
