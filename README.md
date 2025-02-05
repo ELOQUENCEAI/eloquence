@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="materials/images/logo.jpg" alt="Logo" width="200" />
+  <img src="materials/images/logo.jpg" alt="Logo" width="550" />
 </p>
 
 ## Introduction
