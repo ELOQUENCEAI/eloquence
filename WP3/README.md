@@ -3,4 +3,4 @@ This work package aims to develop and integrate hybrid AI techniques and self-su
 
 ### Submodules
 This repository includes the following submodules:
-- **dialog2flow**: A submodule to the the Dialog to Flow repository, which derives structured workflows from unannotated dialogues.
+- **dialog2flow**: A submodule to the the Dialog2Flow repository, which derives structured workflows from unannotated dialogues.

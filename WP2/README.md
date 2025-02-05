@@ -1,5 +1,5 @@
 ## Work Package 2
-This work package focuses on research and development to enhance natural language understanding through advanced multilingual LLMs, with an emphasis on safety-critical applications. It also aims to develop efficient methods for handling spontaneous speech and adapting LLMs to the conversational domain, ensuring accurate and meaningful dialogues
+This work package focuses on research and development to enhance natural language understanding through advanced multilingual LLMs, with an emphasis on safety-critical applications. It also aims to develop efficient methods for handling spontaneous speech and adapting LLMs to the conversational domain, ensuring accurate and meaningful dialogues.
 
 ### Submodules
 
