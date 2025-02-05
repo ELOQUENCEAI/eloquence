@@ -1,0 +1,2 @@
+## Work Package 4
+This work package focuses on leveraging pre-trained speech models and developing multilingual self-supervised learning representations for efficient spoken language understanding, including low-resource languages. It explores cross-lingual transfer learning to simplify language inclusion, develops new application domains, and ensures ethical considerations with a focus on privacy.
