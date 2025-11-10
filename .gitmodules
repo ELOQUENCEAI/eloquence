@@ -11,3 +11,6 @@
 [submodule "WP3/dialog2flow"]
 	path = WP3/dialog2flow
 	url = https://github.com/idiap/dialog2flow.git
+[submodule "WP3/sdialog"]
+	path = WP3/sdialog
+	url = https://github.com/idiap/sdialog.git
