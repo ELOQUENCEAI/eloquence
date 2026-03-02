@@ -14,3 +14,6 @@
 [submodule "WP3/sdialog"]
 	path = WP3/sdialog
 	url = https://github.com/idiap/sdialog.git
+[submodule "WP3/NER"]
+	path = WP3/NER
+	url = git@github.com:Telefonica-Scientific-Research/Eloquence-GLiNER.git
