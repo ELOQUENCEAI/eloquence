@@ -20,3 +20,6 @@
 [submodule "WP3/NER"]
 	path = WP3/NER
 	url = git@github.com:Telefonica-Scientific-Research/Eloquence-GLiNER.git
+[submodule "WP5/eloquence_pilot2"]
+	path = WP5/eloquence_pilot2
+	url = https://github.com/pietroneroni/eloquence_pilot2.git
